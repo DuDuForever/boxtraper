@@ -7,5 +7,7 @@ and the other thing is that the instruction of this game:
 => as if you kill one opponent you will have 2 points and the container( box ) will shake,vibrate and it will make the two container display as 2 to confuse the player which is the orignal box
 => well if the player hit the line of the box he will die
 }
-well hope you will like the boxtraper game enjoy it and subscribe me Ecdo YT!
-bey bey ^_^        ECDO YT         ^_^
+well hope you will like the boxtraper game enjoy it 
+
+DEVELOPED BY:
+ ^_^        MUHAMMAD USMAN BILAL       ^_^
